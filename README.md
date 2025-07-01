@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sadat8418
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Reinforcement Learning
+- 🌱 I’m currently learning ReactJS, MERN Stack, TypeScript, React Native
+- 🌱 Solving problems in leetCode 
 - 💞️ I’m looking to collaborate on ML Researchers & Developpers...
 - 📫 To reach me send me an email @ sadat.arefin98@gmail.com
 
